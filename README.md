@@ -15,7 +15,7 @@ Files related to Brown University Data Science ScM research practicum investigat
             - Analyses of the data characteristics of the data directly from the AllenSDK
         - allensdk_pca.ipynb
             - Code to query and inspect the data available through the AllenSDK, includes an example application of PCA to a selection of data
-- Models/Results
+- Models:Results
     - Scripts:
         - models.py
             - Model definitions for the feedforward networks tested as candidate embedding functions/initial states for the encoder network in our next-step predictor model
